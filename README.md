@@ -1,5 +1,6 @@
 # Deep Learning Projects
 
+
 Assignments from the Master's Course on Artificial Neural Networks and Deep Architectures at KTH, Autumn 2023.
 
 ## Contents:
